@@ -1,4 +1,12 @@
+
+
+## TODO
+
+- [ ] 训练所得模型推理代码
+- [ ] 模型转换onnx代码，包括可执行脚本，验证是否一致等
+
 ## 来源
+
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 
 ## 说明
